@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ### AL ###
 #Template for AL projects for Dynamics 365 Business Central
 #launch.json folder
@@ -21,3 +22,11 @@ rad.json
 *.flf
 #Test results file
 TestResults.xml
+=======
+.metadata
+.settings
+.classpath
+.project
+bin
+.DS_Store
+>>>>>>> master
